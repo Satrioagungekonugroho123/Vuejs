@@ -1,4 +1,4 @@
-# lesson1
+# web weather
 
 ## Project setup
 ```
